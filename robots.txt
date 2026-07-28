@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-k5yuor.codextown.xyz/sitemap.xml
